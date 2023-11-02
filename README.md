@@ -2,7 +2,7 @@
 
 Serverless IoT Data Processing
 
-Phase 1 Project Sunmission
+Phase 1 Project Submission
 By
 
 R Muthu Krishnan
